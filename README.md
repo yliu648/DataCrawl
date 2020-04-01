@@ -1,5 +1,5 @@
-# DataCrawl ReadMe Demo
-The Jazz Standard is a restaurant and jazz club in New York City. We want to scrape comments about the club from yelp.com.
+# Crawling Yelp Reviews
+The Jazz Standard is a restaurant and jazz club in New York City. This readme demo shows how I scraped comments about the club from yelp.com.
 
 1. Import the BeautifulSoup class from bs4 and urlopen from urllib:
 ```
